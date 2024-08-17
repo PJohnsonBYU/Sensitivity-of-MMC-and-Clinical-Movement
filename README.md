@@ -8,7 +8,7 @@ This data was collected at Brigham Young University and University of Utah with 
 
 The procedures for capturing the raw data from the Leap Motion Controller (Leap Motion, San Francisco, CA) and processing it to the final measures reported this repository can be found in the following article:
 
-Kincaid, C., P. Johnson, and S.K. Charles, Feasibility of using the Leap Motion Controller to administer conventional motor tests: a proof-of-concept study. Biomedical Physics & Engineering Express, 2023. 9(3).
+Kincaid, C., P. Johnson, and S.K. Charles, Feasibility of using the Leap Motion Controller to administer conventional motor tests: a proof-of-concept study. _Biomedical Physics & Engineering Express_, 2023. 9(3).
 
 
 **Abbreviations and attributes for the reported measures:**
