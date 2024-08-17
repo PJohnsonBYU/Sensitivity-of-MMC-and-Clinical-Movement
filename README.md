@@ -14,7 +14,7 @@ Kincaid, C., P. Johnson, and S.K. Charles, Feasibility of using the Leap Motion 
 **Abbreviations and attributes for the reported measures:**
 
 **Markerless Motion Capture Tests**
-Finger oscillation measures:
+<br>Finger oscillation measures:
 <UL TYPE=none>
 <LI>FO Count: Average number of times cursor crossed the 15mm gap in 10 seconds
 <LI>FO VPeriod: Variability in period; the standard deviation of the oscillation period 
